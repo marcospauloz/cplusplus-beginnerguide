@@ -14,6 +14,6 @@ int main()
 
 	double totalofthree = add(1.1, 2.2, 3.3);
 	cout << "1.1 + 2.2, 3.3 is " << totalofthree << '\n';
-	
+
 	return 0;
 }

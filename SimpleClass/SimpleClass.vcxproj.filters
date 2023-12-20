@@ -26,7 +26,7 @@
     <ClCompile Include="Account.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SimpleClasses.cpp">
+    <ClCompile Include="SimpleClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Transaction.cpp">

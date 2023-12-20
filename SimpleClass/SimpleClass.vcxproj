@@ -132,7 +132,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Account.cpp" />
-    <ClCompile Include="SimpleClasses.cpp" />
+    <ClCompile Include="SimpleClass.cpp" />
     <ClCompile Include="Transaction.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
